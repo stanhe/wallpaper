@@ -1,0 +1,12 @@
+* All Wallpapers 
+
+** OnLine resource
+[[https:wallpaperfx.com][HD Wallpapers]]
+
+
+** current folder
+1. [[file:blue-sea.jpg][sea]]
+2. [[file:ocean-sunset.jpg][ocean]]
+3. [[file:the-planet.jpg][planet]]
+4. [[file:the-sunset.jpg][sunset]]
+5. [[file:tropical-sea.jpg][sea2]]
